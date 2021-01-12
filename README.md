@@ -6,7 +6,7 @@
 
 | **Project** | **Technology** | **Description** |
 |     :---:    |     :---:      |     :---     |
-| [Othello Reversi](https://github.com/iluque95/Othello)   | Java     | Computer engineer degree project. Developing of Othello game.    |
+| [Othello Reversi](https://github.com/iluque95/Othello)   | Java     | Computer engineering degree project. Developing of Othello game.    |
 | [ESIN](https://github.com/iluque95/ESIN)    | C++       | Computer engineering subject where we practiced with some data structures to handle data as an efficiently way.      |
 | [EasyDial](https://github.com/iluque95/easydialog)    | C++       | Computer engineering project where we developed an smart and efficient conctact agenda.      |
 | [AODrag-AOMania unpacker](https://github.com/iluque95/AODrag-AOMania-unpacker)    | C++       | Extract BMPs from graphics file of some Argentum Online games.      |
@@ -23,3 +23,9 @@
 | [Scooter API](https://github.com/iluque95/m365dashboard_api)   | NodeJS     | API to collect data from Xiaomi's M365 Scooter. **Discontinued.**    |
 | [Spring-MVC API](https://github.com/iluque95/spring-mvc-code-exercise)   | Java     | Exercise of Sinensia's bootcamp. Practicing services.    |
 | [Spring-MVC API JPA](https://github.com/iluque95/spring-mvc-jpa-example-exercise)   | Java     | Exercise of Sinensia's bootcamp. Practicing JPA.    |
+
+### Sysadmin
+
+| **Project** | **Technology** | **Description** |
+|     :---:    |     :---:      |     :---     |
+| [Security & Networks Administration](https://github.com/iluque95/os-services-security-and-nets)   | Bash     | Reports written by me for a subject on CED to deploy linux services and analyze security faults with scripts written as well by me in bash.   |
