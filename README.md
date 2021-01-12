@@ -24,7 +24,7 @@
 | [Spring-MVC API](https://github.com/iluque95/spring-mvc-code-exercise)   | Java     | Exercise of Sinensia's bootcamp. Practicing services.    |
 | [Spring-MVC API JPA](https://github.com/iluque95/spring-mvc-jpa-example-exercise)   | Java     | Exercise of Sinensia's bootcamp. Practicing JPA.    |
 
-### Sysadmin
+### SysAdmin
 
 | **Project** | **Technology** | **Description** |
 |     :---:    |     :---:      |     :---     |
