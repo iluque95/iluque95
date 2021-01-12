@@ -23,6 +23,7 @@
 | [Scooter API](https://github.com/iluque95/m365dashboard_api)   | NodeJS     | API to collect data from Xiaomi's M365 Scooter. **Discontinued.**    |
 | [Spring-MVC API](https://github.com/iluque95/spring-mvc-code-exercise)   | Java     | Exercise of Sinensia's bootcamp. Practicing services.    |
 | [Spring-MVC API JPA](https://github.com/iluque95/spring-mvc-jpa-example-exercise)   | Java     | Exercise of Sinensia's bootcamp. Practicing JPA.    |
+| [Barber Shop tool](https://github.com/iluque95/dabd-barbershop-project)   | PHP     | Tool developed for a subject of CED. Consists on make CRUD operations and allow clients to reserve services slot times.    |
 
 ### SysAdmin
 
