@@ -11,6 +11,7 @@
 | [EasyDial](https://github.com/iluque95/easydialog)    | C++       | Computer engineering project where we developed an smart and efficient conctact agenda.      |
 | [AODrag-AOMania unpacker](https://github.com/iluque95/AODrag-AOMania-unpacker)    | C++       | Extract BMPs from graphics file of some Argentum Online games.      |
 | [AOLibrary](https://github.com/iluque95/AOLibrary)    | C++       | Windows DLL (x86) for Visual Basic 6.0. Concretely to dope Argentum Online game with major speed reading INI and binary files using multithreading in some cases.      |
+[AOSteroids](https://github.com/iluque95/AOSteroids)    | C++       | AOLibrary boosted.      |
 | [file mapping benchmark](https://github.com/iluque95/file_mapping_benchmark)    | C++       | Benchmark of different ways to read files. Compared with differents OS as well.     |
 | [Recursive File System Serializer](https://github.com/iluque95/recursive-file-system-serializer)    | C++       | Store in a binary file a structured folder recursevely with it's content included to restore them later. For instance, sensible data packer protector.     |
 
