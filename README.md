@@ -19,7 +19,8 @@
 
 | **Project** | **Technology** | **Description** |
 |     :---:    |     :---:      |     :---     |
-| [iOS App](https://github.com/iluque95/ios-mvvm-clean-archicture-practice-exercise)   | Swift     | App to practice MVVM and API rest consuming.     |
+| [iOS App v1](https://github.com/iluque95/ios-mvvm-clean-archicture-practice-exercise)   | Swift     | App to practice MVVM and API rest consuming.     |
+| [iOS App v2](https://github.com/iluque95/swift-ui-plus-combine-clean-architecture)   | Swift     | App v1 improved using real MVVM and clean architecture     |
 
 ### Backend
 
